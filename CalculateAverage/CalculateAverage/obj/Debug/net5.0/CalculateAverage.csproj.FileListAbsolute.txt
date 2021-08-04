@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\ref\CalculateAverage.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\bin\Debug\net5.0\CalculateAverage.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\ref\CalculateAverage.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CalculateAverage\CalculateAverage\obj\Debug\net5.0\CalculateAverage.genruntimeconfig.cache

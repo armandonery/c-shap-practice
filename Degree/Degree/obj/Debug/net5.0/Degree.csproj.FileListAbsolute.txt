@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\Degree.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\Degree.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\Degree.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\Degree.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\Degree.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\ref\Degree.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\bin\Debug\net5.0\Degree.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\ref\Degree.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\Degree\Degree\obj\Debug\net5.0\Degree.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\VerifyNegative.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\VerifyNegative.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\VerifyNegative.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\VerifyNegative.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\VerifyNegative.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\ref\VerifyNegative.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\bin\Debug\net5.0\VerifyNegative.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\ref\VerifyNegative.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\VerifyNegative\VerifyNegative\obj\Debug\net5.0\VerifyNegative.genruntimeconfig.cache

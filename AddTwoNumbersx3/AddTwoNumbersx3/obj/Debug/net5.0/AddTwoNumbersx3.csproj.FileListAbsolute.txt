@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\AddTwoNumbersx3.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\AddTwoNumbersx3.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\AddTwoNumbersx3.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\AddTwoNumbersx3.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\AddTwoNumbersx3.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\ref\AddTwoNumbersx3.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\bin\Debug\net5.0\AddTwoNumbersx3.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\ref\AddTwoNumbersx3.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddTwoNumbersx3\AddTwoNumbersx3\obj\Debug\net5.0\AddTwoNumbersx3.genruntimeconfig.cache

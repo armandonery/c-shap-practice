@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\BasicOperations.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\BasicOperations.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\BasicOperations.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\BasicOperations.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\BasicOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\ref\BasicOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\bin\Debug\net5.0\BasicOperations.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\ref\BasicOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\BasicOperations\BasicOperations\obj\Debug\net5.0\BasicOperations.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\DivideTwoNumbers.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\DivideTwoNumbers.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\DivideTwoNumbers.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\DivideTwoNumbers.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\DivideTwoNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\ref\DivideTwoNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net5.0\DivideTwoNumbers.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\ref\DivideTwoNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net5.0\DivideTwoNumbers.genruntimeconfig.cache

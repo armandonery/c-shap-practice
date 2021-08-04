@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ToLower.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ToLower.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ToLower.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ToLower.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ToLower.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ref\ToLower.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\bin\Debug\net5.0\ToLower.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ref\ToLower.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ToLower\ToLower\obj\Debug\net5.0\ToLower.genruntimeconfig.cache

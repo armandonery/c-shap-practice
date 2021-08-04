@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ExchangeNumers.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ExchangeNumers.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ExchangeNumers.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ExchangeNumers.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ExchangeNumers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ref\ExchangeNumers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\bin\Debug\net5.0\ExchangeNumers.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ref\ExchangeNumers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ExchangeNumers\ExchangeNumers\obj\Debug\net5.0\ExchangeNumers.genruntimeconfig.cache

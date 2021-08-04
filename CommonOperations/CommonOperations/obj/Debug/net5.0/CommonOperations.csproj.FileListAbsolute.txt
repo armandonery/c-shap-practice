@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\CommonOperations.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\CommonOperations.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\CommonOperations.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\CommonOperations.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\CommonOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\ref\CommonOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\bin\Debug\net5.0\CommonOperations.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\ref\CommonOperations.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\CommonOperations\CommonOperations\obj\Debug\net5.0\CommonOperations.genruntimeconfig.cache

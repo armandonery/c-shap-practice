@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\MultiplyThreeNumbers.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\MultiplyThreeNumbers.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\MultiplyThreeNumbers.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\MultiplyThreeNumbers.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\MultiplyThreeNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\ref\MultiplyThreeNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net5.0\MultiplyThreeNumbers.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\ref\MultiplyThreeNumbers.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net5.0\MultiplyThreeNumbers.genruntimeconfig.cache

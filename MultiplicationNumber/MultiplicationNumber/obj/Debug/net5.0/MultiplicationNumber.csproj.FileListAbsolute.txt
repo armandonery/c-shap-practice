@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\MultiplicationNumber.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\MultiplicationNumber.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\MultiplicationNumber.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\MultiplicationNumber.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\MultiplicationNumber.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\ref\MultiplicationNumber.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\bin\Debug\net5.0\MultiplicationNumber.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\ref\MultiplicationNumber.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\MultiplicationNumber\MultiplicationNumber\obj\Debug\net5.0\MultiplicationNumber.genruntimeconfig.cache
