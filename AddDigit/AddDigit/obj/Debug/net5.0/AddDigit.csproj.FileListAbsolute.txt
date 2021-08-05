@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\AddDigit.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\AddDigit.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\AddDigit.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\AddDigit.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\AddDigit.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\ref\AddDigit.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\bin\Debug\net5.0\AddDigit.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\ref\AddDigit.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\AddDigit\AddDigit\obj\Debug\net5.0\AddDigit.genruntimeconfig.cache

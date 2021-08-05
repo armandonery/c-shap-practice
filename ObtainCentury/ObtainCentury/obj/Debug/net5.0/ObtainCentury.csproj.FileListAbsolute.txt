@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ObtainCentury.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ObtainCentury.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ObtainCentury.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ObtainCentury.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ObtainCentury.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ref\ObtainCentury.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\bin\Debug\net5.0\ObtainCentury.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ref\ObtainCentury.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\ObtainCentury\ObtainCentury\obj\Debug\net5.0\ObtainCentury.genruntimeconfig.cache

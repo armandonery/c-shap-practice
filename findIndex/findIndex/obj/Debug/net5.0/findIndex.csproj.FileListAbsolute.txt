@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\findIndex.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\findIndex.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\findIndex.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\findIndex.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\findIndex.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\ref\findIndex.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\bin\Debug\net5.0\findIndex.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\ref\findIndex.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\findIndex\findIndex\obj\Debug\net5.0\findIndex.genruntimeconfig.cache

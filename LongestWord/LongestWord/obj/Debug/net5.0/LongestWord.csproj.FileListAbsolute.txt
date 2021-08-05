@@ -1,0 +1,16 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\LongestWord.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\LongestWord.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\LongestWord.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\LongestWord.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\LongestWord.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\ref\LongestWord.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\bin\Debug\net5.0\LongestWord.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.csproj.AssemblyReference.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\ref\LongestWord.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\LongestWord\LongestWord\obj\Debug\net5.0\LongestWord.genruntimeconfig.cache

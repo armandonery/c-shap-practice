@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\HexToDec.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\HexToDec.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\HexToDec.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\HexToDec.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\HexToDec.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\ref\HexToDec.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\bin\Debug\net5.0\HexToDec.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\ref\HexToDec.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\HexToDec\HexToDec\obj\Debug\net5.0\HexToDec.genruntimeconfig.cache

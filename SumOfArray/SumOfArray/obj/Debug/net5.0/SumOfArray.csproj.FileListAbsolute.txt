@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\SumOfArray.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\SumOfArray.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\SumOfArray.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\SumOfArray.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\SumOfArray.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\ref\SumOfArray.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\bin\Debug\net5.0\SumOfArray.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\ref\SumOfArray.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\SumOfArray\SumOfArray\obj\Debug\net5.0\SumOfArray.genruntimeconfig.cache

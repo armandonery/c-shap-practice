@@ -1,0 +1,15 @@
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\reverseSentence.exe
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\reverseSentence.deps.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\reverseSentence.runtimeconfig.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\reverseSentence.runtimeconfig.dev.json
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\reverseSentence.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\ref\reverseSentence.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\bin\Debug\net5.0\reverseSentence.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.AssemblyInfoInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.AssemblyInfo.cs
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.csproj.CoreCompileInputs.cache
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\ref\reverseSentence.dll
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.pdb
+C:\Users\Wespe\OneDrive\Documents\Development\c#\reverseSentence\reverseSentence\obj\Debug\net5.0\reverseSentence.genruntimeconfig.cache
